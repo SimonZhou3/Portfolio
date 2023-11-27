@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "Typescript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/Javascript.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/Java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/Python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/postgresql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongodb.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PHP",
+      "image": {
+        "src": "../../images/php.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ More",
+    "initiallyShownInterests": 5
+  }
+}

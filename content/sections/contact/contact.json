@@ -1,0 +1,13 @@
+{
+  "name": "Email",
+  "email": "simonzhou3@hotmail.com",
+  "description": "I am open to any and all software engineering opportunities. If you want to get to know me or connect with me, feel free to contact me via Email or Linkedin!",
+  "image": {
+    "src": "../../images/SIcon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Mail"],
+    "showIcons": true
+  }
+}

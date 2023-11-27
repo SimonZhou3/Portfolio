@@ -1,0 +1,16 @@
+{
+  "experience": [
+    {
+      "title": "Software Developer Co-op",
+      "company": "St. Georges School",
+      "description": "...",
+      "tags": ["React", "MySQL", "PHP", "Symfony"],
+      "links": [
+        {
+          "url": "https://www.stgeorges.bc.ca/"
+        }
+      ]
+    }
+  ]
+
+}

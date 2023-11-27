@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Web Application",
+      "title": "Messaging Application",
+      "description": "A messaging application that allow users to interact with other users in real time. Features include single-sign on for user creations and customizable profiles.",
+      "tags": ["React", "Next.js", "NestJS", "Typescript", "PostgreSQL", "TypeORM", "Docker"],
+      "image": {
+        "src": "../../images/message-app-example.jpg",
+        "alt": "Message-application-profile",
+        "linkTo": "https://github.com/SimonZhou3/Messages",
+        "objectFit": "fill"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SimonZhou3/Messages"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Full Stack Development",
+      "title": "Pokemon Database",
+      "description": "A database project that dynamically fetches pokemon data from an API into a customized database schema. Able to search for information on a pokemon and save the pokemon to a user",
+      "tags": ["Flask", "Python", "Vue.js", "Javascript", "PostgreSQL"],
+      "image": {
+        "src": "../../images/pokemon-database-example.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/SimonZhou3/PokemonDatabase",
+        "objectFit": "fill"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SimonZhou3/PokemonDatabase"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Chatbot",
+      "title": "Discord Voice chat bot",
+      "description": "A Discord bot that is able to read and execute user commands. The Discord bot's feature includes Playing and queueing music, creating user playlists, and fetching information about a TV show ",
+      "tags": ["Java", "MongoDB", "Discord API"],
+      "image": {
+        "src": "../../images/discord-bot-example.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/SimonZhou3/DiscordBot",
+        "objectFit": "fill"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SimonZhou3/DiscordBot"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/SimonZhou3"
+  }
+}

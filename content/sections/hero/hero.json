@@ -1,0 +1,21 @@
+{
+  "intro": "Hey I'm Simon",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/laptop.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "subtitle": {
+    "prefix": "Student | Software Engineer",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "Fourth year Computer Science student at UBC",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
