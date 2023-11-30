@@ -2,8 +2,6 @@
 import React from 'react';
 import Toggle from 'react-toggle';
 import 'react-toggle/style.css';
-import { LuSunMedium } from "react-icons/lu";
-import { LuMoon } from "react-icons/lu";
 
 import { Logo } from '../Logo';
 import { Link } from '../Link';
@@ -40,7 +38,7 @@ export function Footer(): React.ReactElement {
                    <ul className={classes.Recognition}>
                        <li> Edited by Simon Zhou</li>
                        <li> © Copyright 2023</li>
-                       <li> Created by Gatsby</li>
+                       <li> Created Using Gatsby</li>
                    </ul>
                     <label>
                         <Toggle
@@ -48,7 +46,6 @@ export function Footer(): React.ReactElement {
                             onChange={handleToggleChange}
                             name="data-theme"
                         />
-
                     </label>
             </div>
         </footer>
