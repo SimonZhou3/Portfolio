@@ -2,6 +2,25 @@
   "projects": [
     {
       "visible": true,
+      "category": "Distributed System",
+      "title": "Minecraft Distributed Server",
+      "description": "A distributed replication system that allow users to connect to other user's network and host a private minecraft server by transferring server ownership to available nodes in the network.",
+      "tags": ["Typescript", "RAFT Consensus", "Replication", "Heartbeat"],
+      "image": {
+        "src": "../../images/Minecraft-server-gui.jpg",
+        "alt": "Minecraft Distributed Server",
+        "linkTo": "https://github.com/Minecraft-Distributed-System/minecraft-distributed-systems",
+        "objectFit": "fill"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Minecraft-Distributed-System/minecraft-distributed-systems"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Web Application",
       "title": "Messaging Application",
       "description": "A messaging application that allow users to interact with other users in real time. Features include single-sign on for user creations and customizable profiles.",
