@@ -19,7 +19,7 @@ export default function ExperienceSection(props: PageSection): React.ReactElemen
                         className="vertical-timeline-element--work"
                         contentStyle={{background: 'rgb(204,9,47)', color: '#fff'}}
                         contentArrowStyle={{borderRight: '7px solid  rgb(204,9,47)'}}
-                        date="January 2022 - June 2022"
+                        date="May 2024 - Present"
                         dateClassName={classes.Date}
                         iconStyle={{background: 'rgb(204,9,47)', color: '#fff'}}
                     >
